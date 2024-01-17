@@ -72,5 +72,5 @@ webweb
 
 • Hủy hình thức thanh toán
 
-• Kiểm tra thanh toán thành công chưa do bên phía công ty chấp nhận thanh toán gửi về ( nếu thành công chuyển về trang chi tiết thanh toán và hiện popup thanh toán thành công tới khách hàng/ thất bại chuyển lại trang giỏ hàng và hiện popup thất bại)
+• Kiểm tra thanh toán thành công chưa do bên phía web chấp nhận thanh toán gửi về ( nếu thành công chuyển về trang chi tiết thanh toán và hiện popup thanh toán thành công tới khách hàng/ thất bại chuyển lại trang giỏ hàng và hiện popup thất bại)
 
