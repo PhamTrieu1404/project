@@ -1,5 +1,5 @@
 # SWP391
-![image](https://github.com/PhamTrieu1404/project/issues/2)
+![image](https://github.com/PhamTrieu1404/project/blob/a3859b15f502d130e1837ccee67f51af612027ca/pic/Screenshot%202023-10-26%20153049.png?raw=true)
 # Software Requirement Specification
 
 # Artix
