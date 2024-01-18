@@ -6,31 +6,31 @@
 
 # Table of Contents
 
-    *Quy trình 1: ( đăng kí tài khoản User)
+    *Process 1: (Register for a User account)
 
-• Gửi form cho Guest đăng kí
+• Send form to Guest to register
 
-• Sdt
+• Phone Number
 
 • Email
 
-• Mật khẩu
+• Password
 
-• Nhập lại Mật khẩu
+• Conform password
 
-• Tự động cấp roleid là user
+• Automatically assign roleid to user
 
-    *Quy trình 2: ( kiểm tra người dùng, login)
+    *Process 2: (Check user, login)
 
-• Lấy thông tin người dùng
+• Get user information
 
-• Kiểm tra xem là guest hay user để cấp quyền cho người dùng
+• Check whether it is a guest or a user to grant permissions to the user
 
-• Nếu là guest không có quyền mua bán hay đăng các tác phẩm lên web
+• If you are a guest, you do not have the right to buy, sell or post works on the website
 
-• User hoặc Admin có quyền tạo sản phẩm thêm bớt xoá….(Chỉ có admin có quyền chỉnh sửa quyền User.)
-webweb
+• User or Admin has the right to create products, add, remove, delete... (Only admin has the right to edit User rights.)
 \*Quy trình 3: ( quản lý tác phẩm )*\
+    *Quy trình 4 ( lấy chi tiết sản phẩm)
 
     *Quy trình 4 ( lấy chi tiết sản phẩm)
 
